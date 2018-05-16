@@ -7,7 +7,7 @@
   "keywords": [
     "Yac"
   ],
-  "author": "Sci-Bots",
-  "license": "BSD-2-Clause",
+  "author": "The Brainery & Sci-Bots",
+  "license": "MIT & BSD-2-Clause",
   "repository": "https://github.com/sci-bots/yac.git"
 }

@@ -3,8 +3,8 @@
   "version": "0.0.25",
   "description": "Add Conda, Pip (and soon Node) packages to yac project",
   "main": "index.js",
-  "author": "Sci-Bots",
-  "license": "BSD-2-Clause",
+  "author": "The Brainery & Sci-Bots",
+  "license": "MIT & BSD-2-Clause",
   "publishConfig": {
     "access": "public"
   }

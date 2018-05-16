@@ -3,8 +3,8 @@
   "version": "0.0.22",
   "description": "Add project to launch alongside yac dashboard",
   "main": "index.js",
-  "author": "Sci-Bots",
-  "license": "BSD-2-Clause",
+  "author": "The Brainery & Sci-Bots",
+  "license": "MIT & BSD-2-Clause",
   "private": false,
   "dependencies": {
     "@yac/track": "^0.0.22",

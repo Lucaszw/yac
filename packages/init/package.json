@@ -3,8 +3,8 @@
   "version": "0.0.1",
   "description": "Generator for initializing a Yac project",
   "main": "index.js",
-  "author": "Sci-Bots",
-  "license": "BSD-2-Clause",
+  "author": "The Brainery & Sci-Bots",
+  "license": "MIT & BSD-2-Clause",
   "private": false,
   "publishConfig": {
     "access": "public"
