@@ -1,14 +1,14 @@
 {
   "name": "@yac/process-management",
-  "version": "0.0.26",
+  "version": "0.0.27",
   "description": "Helper methods for handling yac process'",
   "main": "index.js",
   "author": "The Brainery & Sci-Bots",
   "license": "MIT & BSD-2-Clause",
   "private": false,
   "dependencies": {
-    "@yac/exec": "^0.0.26",
-    "@yac/track": "^0.0.22",
+    "@yac/exec": "^0.0.27",
+    "@yac/track": "^0.0.27",
     "is-running": "^2.1.0",
     "lodash": "^4.17.5",
     "terminate": "^2.1.0"

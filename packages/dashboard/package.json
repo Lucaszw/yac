@@ -1,6 +1,6 @@
 {
   "name": "@yac/dashboard",
-  "version": "0.0.26",
+  "version": "0.0.27",
   "description": "Dashboard for managing yac projects",
   "main": "app.js",
   "author": "The Brainery & Sci-Bots",
@@ -10,9 +10,9 @@
     "build": "./node_modules/.bin/webpack"
   },
   "dependencies": {
-    "@yac/exec": "^0.0.26",
-    "@yac/process-management": "^0.0.26",
-    "@yac/track": "^0.0.22",
+    "@yac/exec": "^0.0.27",
+    "@yac/process-management": "^0.0.27",
+    "@yac/track": "^0.0.27",
     "body-parser": "^1.18.2",
     "bootstrap": "^4.0.0",
     "browser-request": "^0.3.3",
